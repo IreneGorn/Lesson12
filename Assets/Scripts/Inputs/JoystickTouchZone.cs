@@ -17,6 +17,7 @@ namespace DefaultNamespace.Inputs
         
         public void OnBeginDrag(PointerEventData eventData)
         {
+            
             ShowControls();
             SetBackgroundPosition(eventData);
         }
