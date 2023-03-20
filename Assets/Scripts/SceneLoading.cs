@@ -1,10 +1,7 @@
-using System;
 using System.Collections;
-using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
 using UnityEngine.SceneManagement;
-using UnityEngine.Serialization;
 using UnityEngine.UI;
 
 public class SceneLoading : MonoBehaviour
@@ -24,9 +21,9 @@ public class SceneLoading : MonoBehaviour
         while (progress < 100)
         {
             progress++;
-            _loadingImage.fillAmount = progress / 100f;
+            _loadingImage.fillAmount = progress;
             _progressText.text = $"{progress:0}%";
-            yield return new WaitForSeconds(0.00001f);
+            yield return null;
         }
         SceneManager.LoadSceneAsync(_sceneName);
     }

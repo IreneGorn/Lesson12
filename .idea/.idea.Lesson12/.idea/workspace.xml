@@ -2,12 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4bd36ed-3781-446c-b593-3c088f06f743" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/PickUp.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/PickUp.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/PickUpManager.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/PickUpManager.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/UI.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/UI/AnimatedScoreDisplay.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/UI/AnimatedScoreDisplay.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Lesson12/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Lesson12/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Meshtint Free Tile Map Mega Toon Series/Prefabs/FX Star.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Meshtint Free Tile Map Mega Toon Series/Prefabs/FX Star.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Meshtint Free Tile Map Mega Toon Series/Prefabs/Trap 01.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Meshtint Free Tile Map Mega Toon Series/Prefabs/Trap 01.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Meshtint Free Tile Map Mega Toon Series/Prefabs/Water 01.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Meshtint Free Tile Map Mega Toon Series/Prefabs/Water 01.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/MovingBridge.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/MovingBridge.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Level1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Level1.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/UiScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/UiScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/SettingButtonClick.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ChangeButtonScale.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/SettingButtonClick.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ChangeButtonScale.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ChangeButtonScale.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ChangeButtonScale.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/EventObjects/ButtonEventController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/EventObjects/ButtonEventController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GameStateManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GameStateManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/SceneLoading.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/SceneLoading.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UltimateCubeSimulator2023_Data/globalgamemanagers" beforeDir="false" afterPath="$PROJECT_DIR$/UltimateCubeSimulator2023_Data/globalgamemanagers" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,27 +36,30 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2NF7AuEpuFujU9Gtus4as6FJxKt" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Discover.Launch.Via.Unity": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Discover.Launch.Via.Unity&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "rider.external.source.directories": [
-      "C:\\Users\\Admin\\AppData\\Roaming\\JetBrains\\Rider2022.3\\resharper-host\\DecompilerCache",
-      "C:\\Users\\Admin\\AppData\\Roaming\\JetBrains\\Rider2022.3\\resharper-host\\SourcesCache",
-      "C:\\Users\\Admin\\AppData\\Local\\Symbols\\src"
+  &quot;keyToStringList&quot;: {
+    &quot;rider.external.source.directories&quot;: [
+      &quot;C:\\Users\\Admin\\AppData\\Roaming\\JetBrains\\Rider2022.3\\resharper-host\\DecompilerCache&quot;,
+      &quot;C:\\Users\\Admin\\AppData\\Roaming\\JetBrains\\Rider2022.3\\resharper-host\\SourcesCache&quot;,
+      &quot;C:\\Users\\Admin\\AppData\\Local\\Symbols\\src&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
       <option name="EXE_PATH" value="$PROJECT_DIR$/../Lesson12\UltimateCubeSimulator2023.exe" />
@@ -99,7 +115,9 @@
       <option name="presentableId" value="Default" />
       <updated>1679247838770</updated>
       <workItem from="1679247845767" duration="593000" />
-      <workItem from="1679249055780" duration="8130000" />
+      <workItem from="1679249055780" duration="8515000" />
+      <workItem from="1679310075401" duration="2836000" />
+      <workItem from="1679328640279" duration="4215000" />
     </task>
     <servers />
   </component>

@@ -26,7 +26,7 @@ public class ButtonEventController : MonoBehaviour
 
     private void OnTriggerExit(Collider other)
     {
-        if (_isMoving) return;
+        if (_isMoving) _isMoving = false;
         if (other.gameObject.tag != _playerTag) return;
 
         SetButtonColor(Color.blue);
