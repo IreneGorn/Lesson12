@@ -2,25 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4bd36ed-3781-446c-b593-3c088f06f743" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/PickUp.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/PickUp.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/PickUpManager.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/PickUpManager.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/UI.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/UI/AnimatedScoreDisplay.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/UI/AnimatedScoreDisplay.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/SingletonMonoBehavior.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/SingletonMonoBehavior.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Lesson12/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Lesson12/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Meshtint Free Tile Map Mega Toon Series/Prefabs/FX Star.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Meshtint Free Tile Map Mega Toon Series/Prefabs/FX Star.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Meshtint Free Tile Map Mega Toon Series/Prefabs/Trap 01.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Meshtint Free Tile Map Mega Toon Series/Prefabs/Trap 01.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Meshtint Free Tile Map Mega Toon Series/Prefabs/Water 01.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Meshtint Free Tile Map Mega Toon Series/Prefabs/Water 01.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/MovingBridge.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/MovingBridge.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Level1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Level1.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ChangeButtonScale.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ChangeButtonScale.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/EventObjects/ButtonEventController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/EventObjects/ButtonEventController.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/GameStateManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GameStateManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/SceneLoading.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/SceneLoading.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UltimateCubeSimulator2023_Data/globalgamemanagers" beforeDir="false" afterPath="$PROJECT_DIR$/UltimateCubeSimulator2023_Data/globalgamemanagers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PickUp.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PickUp.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PickUpManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PickUpManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UI/AnimatedScoreDisplay.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/UI/AnimatedScoreDisplay.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,7 +107,7 @@
       <workItem from="1679247845767" duration="593000" />
       <workItem from="1679249055780" duration="8515000" />
       <workItem from="1679310075401" duration="2836000" />
-      <workItem from="1679328640279" duration="4215000" />
+      <workItem from="1679328640279" duration="4942000" />
     </task>
     <servers />
   </component>
