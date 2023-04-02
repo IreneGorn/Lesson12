@@ -2,15 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4bd36ed-3781-446c-b593-3c088f06f743" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/SingletonMonoBehavior.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/SingletonMonoBehavior.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/CoinAnimationManager.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/CoinAnimationManager.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Lesson12/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Lesson12/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Meshtint Free Tile Map Mega Toon Series/Prefabs/FX Star.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Meshtint Free Tile Map Mega Toon Series/Prefabs/FX Star.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/MainController.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/MainController.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Level1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Level1.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GameStateManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GameStateManager.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/PickUp.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PickUp.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PickUpManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PickUpManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UI/AnimatedScoreDisplay.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/UI/AnimatedScoreDisplay.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +106,7 @@
       <workItem from="1679247845767" duration="593000" />
       <workItem from="1679249055780" duration="8515000" />
       <workItem from="1679310075401" duration="2836000" />
-      <workItem from="1679328640279" duration="4942000" />
+      <workItem from="1679328640279" duration="6866000" />
     </task>
     <servers />
   </component>

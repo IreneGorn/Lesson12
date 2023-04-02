@@ -1,4 +1,5 @@
 using System;
+using Cysharp.Threading.Tasks;
 using UnityEngine;
 
 namespace DefaultNamespace
@@ -19,7 +20,10 @@ namespace DefaultNamespace
         private void Pick()
         {
             PickUpManager.Instance.AddMoney(_bonusAmount);
+            CoinAnimationManager.Instance.Animate(_bonusAmount, transform.position);
             Destroy(gameObject);
         }
+        
+        
     }
 }
